@@ -1,0 +1,458 @@
+body {
+	font: 15px/1.5 Arial, Helvetica, sans-serif;
+	padding:0;
+	margin:0;
+	background-color: redwhite;
+	
+}
+
+.container{
+		width:88%;
+		margin:auto;
+		overflow:hidden;
+}
+    .submenu{
+        float:left;
+        
+         
+}
+
+ header ul{
+	margin: 0;
+    float: left;
+}
+
+.list1{
+		float: left;
+		display: inline;
+		padding: 0px 20px 0 20px;
+}
+
+#design a{
+    color: white;
+    
+}
+
+#design a:hover{
+    color: red;
+    
+}
+
+
+header #logo{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
+
+header #branding{
+    float: left
+}
+
+header #branding h1{
+    margin: 0;
+    margin-top: 85px;
+    font-size: 30px;   
+}
+
+header #branding h3{
+    color: white;
+    margin: 0;
+    font-size: 16px;
+    
+    
+}
+
+.nav1{
+    float: left;
+    margin-top: 98px;
+    margin-left: 3px;
+}
+
+header a:hover{
+	color: white;
+	font-weight: bold;
+}
+
+header{
+	background: black;
+	color: red;
+	padding-top: 10px;
+	min-height: 70px;
+	border-bottom: red 3px solid;
+}
+
+header a{
+	color:red;
+	text-decoration:none;
+	text-transform: uppercase;
+	font-size: 16px;
+    float: none;
+}
+
+#order{
+    text-decoration: underline;
+}
+
+.button_1{
+	height: 38px;
+	background: red;
+	border: none;
+	padding-left: 20px;
+	padding-right: 20px;
+	color: white;
+	
+}	
+
+.button2{
+    height: 38px;
+	background: red;
+	border: none;
+	padding-left: 20px;
+	padding-right: 20px;
+	color: white;
+    margin-top:10px;
+    margin-left: 110px;
+}
+
+#button3{
+    height: 38px;
+	background: green;
+	border: none;
+	padding-left: 20px;
+	padding-right: 20px;
+	color: white;
+    margin-top:10px;
+    margin-left: 110px;
+}
+
+
+.dark{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background: black;
+    padding: 15px;
+    color: red;
+    margin-bottom: 20px;
+    
+    
+    
+}
+
+.dark1{
+    
+    margin-top: 20px;
+    background: black;
+    padding: 15px;
+    color: red;
+    margin-bottom: 40px;
+    width: 80%;
+    margin-left: 50px;
+    
+}
+
+#join{
+    margin-bottom: 30px;
+    float: left;
+    margin-right: 20px;
+    
+}
+
+#one{
+    float: left;
+
+}
+
+#two{
+    float:left;
+    margin-bottom: 40px;
+}
+
+
+#devh2{
+    margin-left: 10%;
+}
+
+.dark2{
+    width: 50%;
+    margin: 0 auto;
+    color: red;
+    height: 500px;
+   
+}
+#food{
+    text-align: left;
+    margin-left: 5%;
+    
+}
+#food1{
+    text-align: left;
+    margin-left: 5%;
+    color:red;
+    margin-bottom: 30px;
+}
+.dark2 img{
+    float: left;
+    margin-right: 30px; 
+    margin-bottom: 10px;
+    
+    
+}
+
+.profile{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.profile h3{
+    margin-top: 200px;
+}
+
+
+#showcase{
+	min-height: 400px;
+	background:url('../img/restau.jpg') no-repeat -70px -200px;
+	text-align: center;
+	color: white;
+}
+
+#showcase h1{
+	 margin-top: 10px;
+	 font-size: 30px;
+	 margin-bottom:10px;
+	 color: white;
+}
+#showcase p{
+	font-size: 20px;
+	color: red;
+}
+
+#newsletter{
+	padding:15px;
+	color: white;
+	background: black;
+	border-top: red 3px solid;
+    border-bottom: red 3px solid;
+}
+
+#newsletter h1{
+	float:left;
+	color: white;
+}
+
+#newsletter form{
+	float: right;
+	margin-top: 20px;
+
+}
+
+#newsletter input[type="email"]{
+	padding:4px;
+	height: 25px;
+	width: 250px;
+}
+
+
+#boxes{
+	margin-top: 5px;
+	background-color: whitesmoke;
+    
+}
+
+#boxes .box{
+	float: left;
+	width: 50%;
+	text-align: center;
+    margin-bottom: 20px;
+	
+}
+#boxes .container h1{
+	color: black;
+}
+
+.box a{
+	color: red;
+    text-decoration: underline;      
+}
+
+
+#color{
+    color: red;
+    
+}
+.box a:hover{
+    color: black;
+	font-weight:lighter;
+    
+}
+
+#boxes .box img{
+	padding: 10px;
+	
+}
+
+aside#sidebar{
+    float: right;
+    width: 30%;
+    margin-top: 10px;
+    
+}
+
+    
+article#maincol{
+    float:left;
+    width: 60%;
+    margin-top: 5px;
+}
+
+article p{
+    text-align: left;
+}
+form input{
+    height: 20px;
+    margin-bottom: 10px;
+    width: 300px;
+    padding: 5px;
+}
+
+form select{
+    height: 30px;
+    margin-bottom: 10px;
+    width: 310px;
+    padding: 5px;
+    
+}
+
+form textarea{
+    width: 300px;
+    height:150px;
+    padding: 5px;
+    
+    
+}
+footer{
+	padding: 10px;
+	margin-top: 5px;
+	color: white;
+	background-color: black;
+	text-align: center;
+    border-top: red 3px solid;
+    
+}
+
+
+@media(max-width: 768px){
+   header #branding,
+    .nav1,
+    header #logo,
+    .submenu,
+    .dark2 img,
+    #boxes .box,
+    article#maincol,
+    aside#sidebar,
+    #newsletter h1,
+    #newsletter form,
+    .list1{
+        float: none;
+        text-align: center;
+        width: 100%;
+        height: 20%;
+    }
+    
+    header{
+        padding-bottom: 20px;
+        width: 100%;
+    }
+
+    .nav1{
+        margin-top: 20px;
+    }
+
+    header #logo{
+        width: auto;
+        height:auto;
+    }
+
+    .submenu{
+        padding-top: 10px;
+        
+    }
+
+    header #branding h1{
+    margin: auto;
+    
+    }
+    
+    .list1{
+        float: left;
+        width: 80%;
+        padding: 5px;
+    }
+
+    #showcase{
+        background:url('../img/restau.jpg') no-repeat -380px -180px;    
+    }
+    
+    #showcase p{
+        margin-bottom: 50px;
+    }
+ 
+    #newsletter h1{
+        margin-bottom: 40px;
+        height: 10px;
+    }
+    
+    #newsletter form{
+        margin-bottom: 10px;
+        margin-top:auto;
+        
+    }
+    
+    .button_1{
+        display: block;
+        width: 100%;
+        
+    }
+    
+    #newsletter input[type="email"]{
+    width: 100%;
+        margin-bottom: 5px;
+    
+    }
+    
+    #food{
+        text-align: center;
+    }
+    
+    
+    .dark1{
+         width: 78%;
+        margin-right: auto;
+        
+    }
+   
+    #button3{
+        margin-right: 100px;
+    }
+    
+    aside#sidebar{
+        margin-top: 20px;
+        text-align: left;
+        margin-bottom: 10px;
+        
+    }
+    
+    #food1{
+        text-align: center;
+    }
+    
+    .dark2 img{
+        width:250px;
+        height: 300px;
+    }
+    
+    .dark2 h3{
+        margin: auto;
+    }
+
+}
